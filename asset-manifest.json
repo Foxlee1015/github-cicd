@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github-cicd/static/css/main.5f361e03.chunk.css",
+    "main.js": "/github-cicd/static/js/main.82dbb401.chunk.js",
+    "main.js.map": "/github-cicd/static/js/main.82dbb401.chunk.js.map",
+    "runtime-main.js": "/github-cicd/static/js/runtime-main.46fca2dd.js",
+    "runtime-main.js.map": "/github-cicd/static/js/runtime-main.46fca2dd.js.map",
+    "static/js/2.14ecaf6a.chunk.js": "/github-cicd/static/js/2.14ecaf6a.chunk.js",
+    "static/js/2.14ecaf6a.chunk.js.map": "/github-cicd/static/js/2.14ecaf6a.chunk.js.map",
+    "index.html": "/github-cicd/index.html",
+    "precache-manifest.a8dc623e2e02581151f84a62e3d3bfda.js": "/github-cicd/precache-manifest.a8dc623e2e02581151f84a62e3d3bfda.js",
+    "service-worker.js": "/github-cicd/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/github-cicd/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.14ecaf6a.chunk.js.LICENSE.txt": "/github-cicd/static/js/2.14ecaf6a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/github-cicd/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46fca2dd.js",
+    "static/js/2.14ecaf6a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.82dbb401.chunk.js"
+  ]
+}
