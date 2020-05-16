@@ -1,4 +1,5 @@
 {
+  "homepage": "http://foxlee1015.github.io/github-cicd",
   "name": "github_cicd",
   "version": "0.1.0",
   "private": true,
@@ -30,5 +31,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
